@@ -89,7 +89,4 @@ Insight: Provides summary statistics to understand the age distribution.
 
 PostgreSQL — for querying and data profiling
 DBeaver — database client for query execution
-Tableau Public — for future data visualization and dashboard creation
-📊 Dashboards
 
-(Description to be added tomorrow)
